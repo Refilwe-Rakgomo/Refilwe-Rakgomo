@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Refilwe-Rakgomo
-- 👩‍💻 I'm an aspiring coder & tech enthusiast
-- 🌱 I’m currently learning how to code
+👋 Hi, my name is Refilwe and I'm an aspiring coder & tech enthusiast. I’m currently learning how to code with SheCodes!
 
 
 
